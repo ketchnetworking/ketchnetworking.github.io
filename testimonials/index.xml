@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Testimonials on Ketch Networking</title>
+    <title>Products on Ketch Networking</title>
     <link>/testimonials/</link>
-    <description>Recent content in Testimonials on Ketch Networking</description>
+    <description>Recent content in Products on Ketch Networking</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate>
@@ -12,33 +12,24 @@
     
     
     <item>
-      <title>Lion Creative</title>
-      <link>/testimonials/lion-creative/</link>
+      <title>Tellabs Optical LAN</title>
+      <link>/testimonials/tellabs-flexsym-olan/</link>
       <pubDate>Wed, 28 Nov 2018 15:05:36 +1000</pubDate>
       
-      <guid>/testimonials/lion-creative/</guid>
-      <description> Sales bandwidth business model canvas android infographic leverage prototype traction buzz. Founders stock startup incubator gamification series A financing churn rate gen-z ecosystem bootstrapping branding. Interaction design partnership technology. Hackathon infrastructure bandwidth bootstrapping.
- </description>
+      <guid>/testimonials/tellabs-flexsym-olan/</guid>
+      <description>Tellabs FlexSym Series, a symmetrical 10 gigabit XGS-PON solution that provides significantly more flexibility to design an enterprise Local Area Network (LAN) for both commercial and federal government customers. The Tellabs FlexSym solution provides the unique ability to serve both 10G and G-PON on the same system, and even on the same PON service card, providing infinite options and a graceful migration to future higher speed network needs.
+ Select XFP-based 10G XGS-PON and 2.</description>
     </item>
     
     <item>
-      <title>Thaistyle Asian</title>
-      <link>/testimonials/thaistyle-asian/</link>
-      <pubDate>Wed, 28 Nov 2018 15:04:35 +1000</pubDate>
-      
-      <guid>/testimonials/thaistyle-asian/</guid>
-      <description> Learning curve return on investment twitter traction accelerator client angel investor user experience customer seed round backing. Innovator social media graphical user interface supply chain series A financing. Virality agile development ownership investor research &amp;amp; development focus. Incubator supply chain network effects success paradigm shift crowdfunding client research &amp;amp; development.
- </description>
-    </item>
-    
-    <item>
-      <title>Mikes Auto Parts</title>
-      <link>/testimonials/mikes-auto-parts/</link>
+      <title>Tellabs 1000 Multi-Service Access Platform</title>
+      <link>/testimonials/tellabs-1000-msap/</link>
       <pubDate>Wed, 28 Nov 2018 15:01:01 +1000</pubDate>
       
-      <guid>/testimonials/mikes-auto-parts/</guid>
-      <description> Value proposition accelerator crowdsource channels customer. Research &amp;amp; development seed money channels creative. Ramen buzz ecosystem technology equity paradigm shift business-to-business lean startup social proof client startup. Agile development partnership business-to-consumer pitch marketing twitter venture advisor metrics alpha bootstrapping infrastructure seed round.
- </description>
+      <guid>/testimonials/tellabs-1000-msap/</guid>
+      <description>Service providers face three conflicting challenges when it comes to maintaining and upgrading their access networks.
+They must:
+ Satisfy the demand for TDM-based business services, even while transitioning to an all-IP Ethernet-centric network. Keep delivering legacy services, despite the fact that many legacy equipment vendors have Manufacture Discontinued (MD’d) their product lines. Provide the most cost effective infrastructure while providing a variety of diseperate and technologically diverse services.  </description>
     </item>
     
   </channel>

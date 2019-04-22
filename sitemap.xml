@@ -8,48 +8,30 @@
   </url>
   
   <url>
+    <loc>/services/olan_npd/</loc>
+  </url>
+  
+  <url>
     <loc>/team/sage-kirk/</loc>
     <lastmod>2018-11-19T10:47:58+10:00</lastmod>
   </url>
   
   <url>
-    <loc>/services/tax-preperation/</loc>
-    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+    <loc>/services/olan_opmadv/</loc>
   </url>
   
   <url>
-    <loc>/services/mergers/</loc>
-    <lastmod>2018-11-28T15:15:34+10:00</lastmod>
+    <loc>/services/olan_cdc/</loc>
   </url>
   
   <url>
-    <loc>/services/business-sales/</loc>
-    <lastmod>2018-11-28T15:15:26+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/services/superannuation/</loc>
-    <lastmod>2018-11-28T15:14:54+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/testimonials/lion-creative/</loc>
+    <loc>/testimonials/tellabs-flexsym-olan/</loc>
     <lastmod>2018-11-28T15:05:36+10:00</lastmod>
   </url>
   
   <url>
-    <loc>/testimonials/thaistyle-asian/</loc>
-    <lastmod>2018-11-28T15:04:35+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/testimonials/mikes-auto-parts/</loc>
+    <loc>/testimonials/tellabs-1000-msap/</loc>
     <lastmod>2018-11-28T15:01:01+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/services/olan_planningdesign/</loc>
-    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url>
   
   <url>
@@ -63,12 +45,12 @@
   </url>
   
   <url>
-    <loc>/team/</loc>
+    <loc>/testimonials/</loc>
     <lastmod>2018-02-12T15:37:57+07:00</lastmod>
   </url>
   
   <url>
-    <loc>/testimonials/</loc>
+    <loc>/team/</loc>
     <lastmod>2018-02-12T15:37:57+07:00</lastmod>
   </url>
   
@@ -83,18 +65,21 @@
   </url>
   
   <url>
-    <loc>/services/business-advisory/</loc>
-    <lastmod>1969-12-31T16:01:39-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>/services/olan_opm/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/services/t1000_opm/</loc>
   </url>
   
 </urlset>

@@ -1,0 +1,9 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -80,7 +80,6 @@
+ 
+ <p>Networks are important. Building modern networks requires multiple technologies and the skills of networking professionals. We connect the people who build networks that are smarter, faster, more secure, easier to operate and more cost effective. Ketch Networking supports Tellabs Optical LAN and Tellabs Multi-Service Access Solutions.</p>
+ 
+-<p>Learn more at <a href="tellabs.com">http://tellabs.com</a></p>
+ <p>Learn more at <a href="http://tellabs.com">tellabs.com</a></p>
+ 
+   </div>

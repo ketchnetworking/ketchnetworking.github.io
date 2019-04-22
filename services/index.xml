@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Services on Ketch Networking</title>
+    <title>Training on Ketch Networking</title>
     <link>/services/</link>
-    <description>Recent content in Services on Ketch Networking</description>
+    <description>Recent content in Training on Ketch Networking</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate>
@@ -12,68 +12,63 @@
     
     
     <item>
-      <title>Tax Preperation</title>
-      <link>/services/tax-preperation/</link>
-      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      
-      <guid>/services/tax-preperation/</guid>
-      <description>Lorem markdownum Achaica revolutaque amore, penitus puppes nec furit, clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem Cretaeas enim ipse pectora excusat candentibus fertur? Furtiva Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
- Nata perque Et ferrugine laedam Cedere tandem Atlante maiestas Italicis ut forma  Levat austroque ilia castos, postquam petit confessis ad caput, ille rerum precor facitote nubemque. Potuit Celadon Martem?</description>
-    </item>
-    
-    <item>
-      <title>Optical LAN Training: Operations, Provisoining &amp; Maintenance</title>
-      <link>/services/mergers/</link>
-      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
-      
-      <guid>/services/mergers/</guid>
-      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
- Cum det dixit Parcarum qui spemque est Exit ex huic Quod consiste agitataque claustraque vicina videt lacertis Loquor videt Ardua non igne caelesti coniugis cognovi diversorum Per nunc pariterque saeva vindicet  Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus.</description>
-    </item>
-    
-    <item>
-      <title>Business Sales</title>
-      <link>/services/business-sales/</link>
-      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
-      
-      <guid>/services/business-sales/</guid>
-      <description>Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia vixque dixit negari ullis stamina: trahit. Tanta rictus in mitia causa, Phoebo nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato cadet! Ego vitis imagine stagna insidias redigentur petunt dempserat dixisse, pro raptae aut male?
- Dente reponere dixere referre excessitque seque Tacui si cui inde haec ubi trepidas Coniunx nulla aut  Geniti facinus praeruptam atris ab manus in Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere non tangere tendens corpore sed.</description>
-    </item>
-    
-    <item>
-      <title>Superannuation</title>
-      <link>/services/superannuation/</link>
-      <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
-      
-      <guid>/services/superannuation/</guid>
-      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
- Cum det dixit Parcarum qui spemque est Exit ex huic Quod consiste agitataque claustraque vicina videt lacertis Loquor videt Ardua non igne caelesti coniugis cognovi diversorum Per nunc pariterque saeva vindicet  Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus.</description>
-    </item>
-    
-    <item>
       <title>Optical LAN Training: Network Planning &amp; Design</title>
-      <link>/services/olan_planningdesign/</link>
-      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      <link>/services/olan_npd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/services/olan_planningdesign/</guid>
-      <description>Do you need to plan and design Optical LAN solutions?
-This course is designed for network engineers who are, or will be, responsible for designing and planning networks for the Tellabs Optical LAN. The curriculum is appropriate for Network Architects, Network Design Consultants and Technical Sales Staff
+      <guid>/services/olan_npd/</guid>
+      <description>Do you need to plan and design Tellabs Optical LAN solutions?
+This course is for network engineers who are, or will be, responsible for designing and planning networks with Tellabs Optical LAN. The curriculum is appropriate for Network Architects, Network Design Consultants and Technical Sales Staff
 Class Specifics Course Duration: 3 days
-Class Location: On-Site at Customer Provided Location
+Class Location: Live Classroom, On-Site or Virtual Classroom
 Class Size: Up to 8 Students
 Day 1 – Optical LAN System Architecture and Applications Overview</description>
     </item>
     
     <item>
-      <title>Business Advisory</title>
-      <link>/services/business-advisory/</link>
-      <pubDate>Wed, 31 Dec 1969 16:01:39 -0800</pubDate>
+      <title>Optical LAN Training: Operations, Provisioning &amp; Maintenance and Advanced Troubleshooting</title>
+      <link>/services/olan_opmadv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/services/business-advisory/</guid>
-      <description>Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares ignisque quaerit dederat gemino Aethiopesque caelo ulciscitur est. Morte lugebere conatur Pallada quaerentes tulit, ignis vagatur undis, latitantem ignemque non laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat Coroneus est qui viscere barbariam seris. Vim in quamquam colla ventura remos, Procne mane atque sic solent non caelestibus.</description>
+      <guid>/services/olan_opmadv/</guid>
+      <description>Do you operate a mission critical highly secure, high availability Tellabs Optical LAN?
+This course is designed for Network Operations and/or any individuals responsible for operating, provisioning, maintaining and monitoring a Tellabs Optical LAN system. This course is also intended for employees responsible for the administration, installation, testing, maintenance or technical support of the Optical LAN.
+Prerequisites
+Basic knowledge in Ethernet switching and routing; including VLAN concepts, IP/subnetting, basic QoS knowledge and the basic concepts of port security.</description>
+    </item>
+    
+    <item>
+      <title>Optical LAN Training: Deployment Certification</title>
+      <link>/services/olan_cdc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/services/olan_cdc/</guid>
+      <description>Are you a Tellabs OLAN Reseller that needs to certify installations?
+This course is designed for Network Operations and/or any individuals responsible for installing, operating, provisioning, maintaining and monitoring a Tellabs Optical LAN system. The curriculum is specifically designed for the following roles who have little to no prior experience installing, turning up, operating and provisioning a Tellabs Optical LAN system.
+This course must be conducted at Tellabs facility in Dallas, TX or suitable lab environment to support extensive hands on activities.</description>
+    </item>
+    
+    <item>
+      <title>Optical LAN Training: Operations, Provisioning &amp; Maintenance</title>
+      <link>/services/olan_opm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/services/olan_opm/</guid>
+      <description>Will you be responsible for Provisioning and Maintaining a Tellabs Optical LAN?
+This course is designed for Network Operations and/or any individuals responsible for operating, provisioning, maintaining and monitoring a Tellabs Optical LAN. This course is also intended for employees responsible for the administration, installation, testing, maintenance or technical support of the Optical LAN.
+Prerequisites
+Basic knowledge in Ethernet switching and routing; including VLAN concepts, IP/subnetting, basic QoS knowledge and the basic concepts of port security.</description>
+    </item>
+    
+    <item>
+      <title>Tellabs 1000 MSAP: Operations, Provisioning &amp; Maintenance</title>
+      <link>/services/t1000_opm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/services/t1000_opm/</guid>
+      <description> Are a Service Provider who needs training for Tellabs 1000 MSAP in your Access Network?
+We provide the Tellabs Operations, Provisioning &amp;amp; Maintenance Course and custom training for the Tellabs 1000 MSAP.
+Please submit form to register for this course: Loading... </description>
     </item>
     
   </channel>
