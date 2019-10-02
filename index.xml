@@ -22,93 +22,12 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
     </item>
     
     <item>
-      <title>Optical LAN Training: Network Planning &amp; Design</title>
-      <link>/services/olan_npd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/services/olan_npd/</guid>
-      <description>Do you need to plan and design Tellabs Optical LAN solutions?
-This course is for network engineers who are, or will be, responsible for designing and planning networks with Tellabs Optical LAN. The curriculum is appropriate for Network Architects, Network Design Consultants and Technical Sales Staff
-Class Specifics Course Duration: 3 days
-Class Location: Live Classroom, On-Site or Virtual Classroom
-Class Size: Up to 8 Students
-Day 1 – Optical LAN System Architecture and Applications Overview</description>
-    </item>
-    
-    <item>
       <title>Sage Kirk</title>
       <link>/team/sage-kirk/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       
       <guid>/team/sage-kirk/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.</description>
-    </item>
-    
-    <item>
-      <title>Optical LAN Training: Operations, Provisioning &amp; Maintenance and Advanced Troubleshooting</title>
-      <link>/services/olan_opmadv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/services/olan_opmadv/</guid>
-      <description>Do you operate a mission critical highly secure, high availability Tellabs Optical LAN?
-This course is designed for Network Operations and/or any individuals responsible for operating, provisioning, maintaining and monitoring a Tellabs Optical LAN system. This course is also intended for employees responsible for the administration, installation, testing, maintenance or technical support of the Optical LAN.
-Prerequisites
-Basic knowledge in Ethernet switching and routing; including VLAN concepts, IP/subnetting, basic QoS knowledge and the basic concepts of port security.</description>
-    </item>
-    
-    <item>
-      <title>Optical LAN Training: Deployment Certification</title>
-      <link>/services/olan_cdc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/services/olan_cdc/</guid>
-      <description>Are you a Tellabs OLAN Reseller that needs to certify installations?
-This course is designed for Network Operations and/or any individuals responsible for installing, operating, provisioning, maintaining and monitoring a Tellabs Optical LAN system. The curriculum is specifically designed for the following roles who have little to no prior experience installing, turning up, operating and provisioning a Tellabs Optical LAN system.
-This course must be conducted at Tellabs facility in Dallas, TX or suitable lab environment to support extensive hands on activities.</description>
-    </item>
-    
-    <item>
-      <title>Tellabs Optical LAN</title>
-      <link>/testimonials/tellabs-flexsym-olan/</link>
-      <pubDate>Wed, 28 Nov 2018 15:05:36 +1000</pubDate>
-      
-      <guid>/testimonials/tellabs-flexsym-olan/</guid>
-      <description>Tellabs FlexSym Series, a symmetrical 10 gigabit XGS-PON solution that provides significantly more flexibility to design an enterprise Local Area Network (LAN) for both commercial and federal government customers. The Tellabs FlexSym solution provides the unique ability to serve both 10G and G-PON on the same system, and even on the same PON service card, providing infinite options and a graceful migration to future higher speed network needs.
- Select XFP-based 10G XGS-PON and 2.</description>
-    </item>
-    
-    <item>
-      <title>Tellabs 1000 Multi-Service Access Platform</title>
-      <link>/testimonials/tellabs-1000-msap/</link>
-      <pubDate>Wed, 28 Nov 2018 15:01:01 +1000</pubDate>
-      
-      <guid>/testimonials/tellabs-1000-msap/</guid>
-      <description>Service providers face three conflicting challenges when it comes to maintaining and upgrading their access networks.
-They must:
- Satisfy the demand for TDM-based business services, even while transitioning to an all-IP Ethernet-centric network. Keep delivering legacy services, despite the fact that many legacy equipment vendors have Manufacture Discontinued (MD’d) their product lines. Provide the most cost effective infrastructure while providing a variety of diseperate and technologically diverse services.  tellabs.</description>
-    </item>
-    
-    <item>
-      <title>Optical LAN Training: Operations, Provisioning &amp; Maintenance</title>
-      <link>/services/olan_opm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/services/olan_opm/</guid>
-      <description>Will you be responsible for Provisioning and Maintaining a Tellabs Optical LAN?
-This course is designed for Network Operations and/or any individuals responsible for operating, provisioning, maintaining and monitoring a Tellabs Optical LAN. This course is also intended for employees responsible for the administration, installation, testing, maintenance or technical support of the Optical LAN.
-Prerequisites
-Basic knowledge in Ethernet switching and routing; including VLAN concepts, IP/subnetting, basic QoS knowledge and the basic concepts of port security.</description>
-    </item>
-    
-    <item>
-      <title>Tellabs 1000 MSAP: Operations, Provisioning &amp; Maintenance</title>
-      <link>/services/t1000_opm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/services/t1000_opm/</guid>
-      <description> Do you represent a Service Provider who needs training for Tellabs 1000 MSAP in your Access Network?
-We provide the Tellabs Operations, Provisioning &amp;amp; Maintenance Course and custom training for the Tellabs 1000 MSAP.
-Please submit form to register for this course: Loading... </description>
     </item>
     
   </channel>

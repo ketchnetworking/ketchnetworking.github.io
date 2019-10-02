@@ -8,30 +8,8 @@
   </url>
   
   <url>
-    <loc>/services/olan_npd/</loc>
-  </url>
-  
-  <url>
     <loc>/team/sage-kirk/</loc>
     <lastmod>2018-11-19T10:47:58+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/services/olan_opmadv/</loc>
-  </url>
-  
-  <url>
-    <loc>/services/olan_cdc/</loc>
-  </url>
-  
-  <url>
-    <loc>/testimonials/tellabs-flexsym-olan/</loc>
-    <lastmod>2018-11-28T15:05:36+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/testimonials/tellabs-1000-msap/</loc>
-    <lastmod>2018-11-28T15:01:01+10:00</lastmod>
   </url>
   
   <url>
@@ -70,16 +48,8 @@
   </url>
   
   <url>
-    <loc>/services/olan_opm/</loc>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/services/t1000_opm/</loc>
   </url>
   
 </urlset>
